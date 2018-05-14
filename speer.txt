@@ -1,0 +1,14 @@
+register_devices(
+devices: {"Luka iPhone 6" => "1234567890123456789012345678901234567890"},
+	username: "jo0lie180@gmail.com"
+) 
+	match(force: true)
+# Simply provide a list of devices as a Hash
+
+
+
+
+lane :beta do
+  register_devices(devices_file: "./devices.txt")
+  match(type: "adhoc", force_for_new_devices: true)
+endhttps://devimages.apple.com.edgekey.net/downloads/devices/Multiple-Upload-Samples.zip

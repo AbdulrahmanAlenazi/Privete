@@ -1,0 +1,5 @@
+git_url "git@github.com:AbdulrahmanAlenazi/Privete.git"
+type "adhoc" # The default type, can be: appstore, adhoc or development
+clone_branch_directly ""
+app_identifier "com.WoLF180"
+username "jo0lie180@gmail.com " 
