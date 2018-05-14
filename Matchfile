@@ -1,3 +1,5 @@
-git_url "git@github.com:AbdulrahmanAlenazi/Privete.git"
-team_id "TNF8979324"
-
+git_url "https://github.com/AbdulrahmanAlenazi/Privete.git"
+type "adhoc" # The default type, can be: appstore, adhoc or development 
+team_id "KV97WUP3JJ" 
+app_identifier "com.WoLF180"
+username "jo0lie180@gmail.com"
